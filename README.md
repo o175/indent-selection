@@ -1,5 +1,5 @@
 # indent-selection
-Allows you to select text incrementally based on it's indentatin:
+Allows your emacs to select text around pointer incrementally based on it's indentation:
 
 ![](select1.gif)
 ![](select2.gif)
